@@ -1,20 +1,48 @@
-<h1 align="center">Hi 👋, I'm Avdhoot</h1>
-<h3 align="center">An AI-ML enthusiast from India</h3>
+# Hi, I'm Avdhoot Chaubal 🚀
 
-- 🔭 I’m currently working on [SmartSched](https://github.com/AvdhootC/SmartSchedBot)
+**AI/ML Engineer & Technical Product Lead | Cloud Architecture & Data Pipelines**
 
-- 🌱 I’m currently learning **TensorFlow, Scikit-Learn**
+I am a Computer Science Engineering (AIML) undergraduate specializing in bridging the gap between deep technical infrastructure and enterprise-scale product management. I architect intelligent backend systems, build containerized data pipelines, and lead engineering teams to deliver AI-native platforms from conceptualization to production. 
 
-- 💬 Ask me about **all things AI & ML**
+Currently maintaining a **9.24 CGPA** while researching machine learning anomaly detection and pursuing AWS enterprise cloud certifications.
 
-- 📫 How to reach me **avdhootamolchaubal@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/avdhoot-chaubal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avdhoot-chaubal" height="30" width="40" /></a>
-<a href="https://kaggle.com/avdhootchaubal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="avdhootchaubal" height="30" width="40" /></a>
-<a href="https://instagram.com/avdhoot._.c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="avdhoot._.c" height="30" width="40" /></a>
-</p>
+### ⚙️ Core Competencies
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+* **Cloud & DevOps:** Docker, Podman, Red Hat Enterprise Linux (RHEL), CI/CD (GitHub Actions), Microsoft Azure, AWS (Data Engineering & Gen AI paths)
+* **AI & Backend Architecture:** Python, Generative AI Orchestration, API Rate Limiting, Applied Machine Learning, TensorFlow, Scikit-Learn
+* **Product & Engineering Management:** Agile/Scrum Workflows, System Architecture Design, Cross-functional Team Leadership (12+ engineers)
+
+---
+
+### 🏆 Featured Architecture & Products
+
+#### 1. StudAI | Project Lead & Cloud Architect
+*Directed a 12-person engineering team to build and launch an AI-native PaaS platform.*
+* **Architecture:** Authored the foundational product plan and re-architected the core AI orchestration into a robust two-step verification model.
+* **DevOps:** Designed the Microsoft Azure cloud deployment strategy, utilizing Docker and establishing a complete CI/CD pipeline via GitHub Actions.
+
+#### 2. FinVision | Enterprise Containerization
+*Developed a containerized, real-time financial dashboard.*
+* **Infrastructure:** Bypassed standard Docker to build the architecture entirely on **Podman** and **Red Hat Enterprise Linux (RHEL)**, optimizing for enterprise-grade security and daemonless container execution.
+
+#### 3. VoiceCraft | Human-Centric AI Product
+*Architected a gamified, AI-native platform designed for automated soft-skills training.*
+* **Product Strategy:** Translated human-behavioral research into an automated roleplay feedback loop, managing end-to-end user stories and product deployment.
+
+#### 4. Sentinel | Intelligent Backend Systems
+*Engineered a load-aware API rate limiter.*
+* **Machine Learning:** Integrated ML-driven anomaly detection to dynamically adjust rate limits based on real-time server stress and traffic patterns.
+
+---
+
+### 📈 Current Focus (2026)
+* 🎯 **Certifications:** Pursuing **AWS Academy Generative AI Foundations** and **AWS Data Engineering**.
+* 📝 **Research:** Drafting a pre-print publication on applied machine learning architectures (Target: arXiv).
+
+---
+
+### 📬 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL_HERE)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:avdhootamolchaubal@gmail.com)
