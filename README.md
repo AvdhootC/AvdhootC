@@ -10,9 +10,9 @@ Currently maintaining a **9.24 CGPA** while researching machine learning anomaly
 
 ### ⚙️ Core Competencies
 
-* **Cloud & DevOps:** Docker, Podman, Red Hat Enterprise Linux (RHEL), CI/CD (GitHub Actions), Microsoft Azure, AWS (Data Engineering & Gen AI paths)
+* **Cloud & DevOps:** Docker, CI/CD (GitHub Actions), Microsoft Azure, AWS (Data Engineering & Gen AI paths)
 * **AI & Backend Architecture:** Python, Generative AI Orchestration, API Rate Limiting, Applied Machine Learning, TensorFlow, Scikit-Learn
-* **Product & Engineering Management:** Agile/Scrum Workflows, System Architecture Design, Cross-functional Team Leadership (12+ engineers)
+* **Product & Engineering Management:** Agile/Scrum Workflows, System Architecture Design, Cross-functional Team Leadership
 
 ---
 
@@ -23,15 +23,11 @@ Currently maintaining a **9.24 CGPA** while researching machine learning anomaly
 * **Architecture:** Authored the foundational product plan and re-architected the core AI orchestration into a robust two-step verification model.
 * **DevOps:** Designed the Microsoft Azure cloud deployment strategy, utilizing Docker and establishing a complete CI/CD pipeline via GitHub Actions.
 
-#### 2. FinVision | Enterprise Containerization
-*Developed a containerized, real-time financial dashboard.*
-* **Infrastructure:** Bypassed standard Docker to build the architecture entirely on **Podman** and **Red Hat Enterprise Linux (RHEL)**, optimizing for enterprise-grade security and daemonless container execution.
-
-#### 3. VoiceCraft | Human-Centric AI Product
+#### 2. VoiceCraft | Human-Centric AI Product
 *Architected a gamified, AI-native platform designed for automated soft-skills training.*
 * **Product Strategy:** Translated human-behavioral research into an automated roleplay feedback loop, managing end-to-end user stories and product deployment.
 
-#### 4. Sentinel | Intelligent Backend Systems
+#### 3. Sentinel | Intelligent Backend Systems
 *Engineered a load-aware API rate limiter.*
 * **Machine Learning:** Integrated ML-driven anomaly detection to dynamically adjust rate limits based on real-time server stress and traffic patterns.
 
