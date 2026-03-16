@@ -1,4 +1,4 @@
-# Hi, I'm Avdhoot Chaubal 🚀
+# Hi, I'm Avdhoot Chaubal 
 
 **AI/ML Engineer & Technical Product Lead | Cloud Architecture & Data Pipelines**
 
